@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Mani Kumar
 
 💻 Python Developer
-🚀 Interested in Programming, Automation, and Problem Solving
+🚀 Interested in Programming and Problem Solving
 
 ## 👨‍💻 About Me
 
