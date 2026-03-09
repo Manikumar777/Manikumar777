@@ -21,7 +21,7 @@ Welcome to my GitHub profile!
 
 ## 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,git,github,vscode,html,css,django,flask,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,git,github,vscode,html,css,django,flask,fastapi,regex,xpath,SQL)](https://skillicons.dev)
 ---
 
 ## 🔥 GitHub Streak
