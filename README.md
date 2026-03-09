@@ -23,26 +23,11 @@ Welcome to my GitHub profile!
 ## 🛠️ Skills
 
 [![My Skills](https://skillicons.dev/icons?i=python,git,github,vscode,html,css,django,flask,fastapi)](https://skillicons.dev)
-
----
-
-## 📊 GitHub Stats
-
-![Mani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manikumar777&show_icons=true&theme=tokyonight)
-
 ---
 
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Manikumar777&theme=tokyonight)
-
----
-
-## 📌 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manikumar777&layout=compact&theme=tokyonight)
-
----
 
 ## 🌐 Connect With Me
 
