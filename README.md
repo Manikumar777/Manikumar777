@@ -13,7 +13,6 @@ Welcome to my GitHub profile!
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning **Python & Problem Solving**
 - 💻 Interested in **Software Development**
 - 📚 Exploring **Data Structures and Algorithms**
 - 🚀 Goal: Become a **Professional Software Developer**
