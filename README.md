@@ -43,7 +43,7 @@ Welcome to my GitHub profile!
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Manikumar777&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer"/>
